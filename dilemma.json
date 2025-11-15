@@ -1,0 +1,11 @@
+{
+  "people": 3,
+  "case_1": {
+    "swerve": true,
+    "reason": "Saving more lives is generally prioritized. One death is preferable to two."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "The child's life should be given more weight than the lives of criminals."
+  }
+}
